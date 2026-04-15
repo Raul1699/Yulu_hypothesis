@@ -1,6 +1,6 @@
 # <h1 align='center'> <font color='royalblue'><font size=6>🚲🚴‍♂️YULU_Bikes - Business CaseStudy🚴‍♂️🚲</font> </font></h1>
 <h1 align='center'><font color='royalblue'><font size=6>Hypothesis Testing</font> </font></h1>
-<h2 align='right'>Analysed by : <font color='green'><b> KASI</b></font></h2>
+<h2 align='right'>Analysed by : <font color='green'><b> Aakash</b></font></h2>
 
 
 
